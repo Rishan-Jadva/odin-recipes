@@ -1,0 +1,12 @@
+body{
+    background-color: #3f3f3f;
+}
+*{
+    color: white;
+}
+a{
+    color: orange;
+}
+ul li{
+    font-weight:bold;
+}
