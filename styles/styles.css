@@ -3,10 +3,28 @@ body{
 }
 *{
     color: white;
+    margin:0;
 }
 a{
     color: orange;
 }
 ul li{
     font-weight:bold;
+}
+li{    
+    padding: 10px;
+}
+.description-box{
+    display:inline-block;
+    width:400px;
+}
+img{
+    display:inline-block;
+    width:400px;
+    height: auto;
+    margin-right:25px;
+}
+.ingredients-box{
+    display: inline-block;
+    width:400px;
 }
